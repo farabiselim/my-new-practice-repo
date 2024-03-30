@@ -5,4 +5,16 @@ div{
 img{
     height: 200px;
     width: 250px;
+    border: 2px solid red;
+}
+.list{
+    background-color: cadetblue;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    border: 2px solid red;
+    padding: 3px;
 }
